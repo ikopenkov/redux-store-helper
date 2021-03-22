@@ -1,4 +1,4 @@
-# Refux Store Helper
+# Redux Store Helper
 
 Provides the ability to create typed redux domain-based stores in a simple manner.
 
